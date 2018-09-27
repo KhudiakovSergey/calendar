@@ -45,6 +45,7 @@ gem 'haml'
 gem 'simple_form'
 gem 'simple_calendar'
 gem 'chosen-rails'
+gem 'sidekiq'
 
 group :development, :test do
   gem 'pry-rails'

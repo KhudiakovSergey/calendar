@@ -1,4 +1,5 @@
 class EventMailer < ApplicationMailer
+  self.delivery_job = SendEmailJob
   default from: 'notifications@example.com'
   layout 'mailer'
 
