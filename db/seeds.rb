@@ -2,8 +2,8 @@ params = {
   email: 'admin@gmail.com',
   password: '111111',
   password_confirmation: '111111',
-  name: 'Admin',
-  surname: 'Admin'
+  name: 'root',
+  surname: 'root'
 }
 
 admin = User.new(params)
