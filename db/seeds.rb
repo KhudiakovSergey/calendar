@@ -1,7 +1,7 @@
 params = {
   email: 'admin@gmail.com',
-  password: '4223924a',
-  password_confirmation: '4223924a',
+  password: '111111',
+  password_confirmation: '111111',
   name: 'Admin',
   surname: 'Admin'
 }
